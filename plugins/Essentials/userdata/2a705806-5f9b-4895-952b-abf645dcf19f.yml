@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.20.255.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745594252678
+  login: 1745592961272
+money: '0'
+last-account-name: EricFlo
+lastlocation:
+  world: 3342dd05-0dc7-495c-8d7b-c854cea88f60
+  world-name: world
+  x: -98.63468166960423
+  y: 73.5709349017863
+  z: 4.081848909216503
+  yaw: -2.3985595703125
+  pitch: 17.40000343322754
+logoutlocation:
+  world: 3342dd05-0dc7-495c-8d7b-c854cea88f60
+  world-name: world
+  x: -157.13502194470834
+  y: 63.0
+  z: 44.9143738977781
+  yaw: -111.36836242675781
+  pitch: -13.050033569335938

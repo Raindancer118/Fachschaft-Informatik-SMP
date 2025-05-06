@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.209.89.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745595676686
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745597053647
+  login: 1745594895942
+money: '0'
+last-account-name: m_te
+logoutlocation:
+  world: 3342dd05-0dc7-495c-8d7b-c854cea88f60
+  world-name: world
+  x: 13.682096694345141
+  y: 64.0
+  z: -91.6578581314885
+  yaw: 61.20074462890625
+  pitch: 37.19995880126953
+lastlocation:
+  world: 354455dc-ab87-4d03-8a10-07a956fa9dcc
+  world-name: farmwelt
+  x: -0.5
+  y: 68.0
+  z: 50.5
+  yaw: 70.65001678466797
+  pitch: 17.69999885559082

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.96.59.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745595346124
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745597144655
+  login: 1745594542042
+money: '0'
+last-account-name: Rolk
+lastlocation:
+  world: 354455dc-ab87-4d03-8a10-07a956fa9dcc
+  world-name: farmwelt
+  x: -35.91248539614409
+  y: 71.0
+  z: 67.39951287262133
+  yaw: 69.85308837890625
+  pitch: 30.50875473022461
+logoutlocation:
+  world: 3342dd05-0dc7-495c-8d7b-c854cea88f60
+  world-name: world
+  x: 93.13529002986115
+  y: 68.0
+  z: -96.97308991930461
+  yaw: 96.38372802734375
+  pitch: 17.537761688232422
