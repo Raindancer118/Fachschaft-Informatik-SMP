@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.0.2.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747505038825
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747506587927
+  login: 1747506042268
+money: '0'
+last-account-name: sL1zzard
+lastlocation:
+  world: 354455dc-ab87-4d03-8a10-07a956fa9dcc
+  world-name: farmwelt
+  x: -0.5
+  y: 68.0
+  z: 50.5
+  yaw: 70.65001678466797
+  pitch: 17.69999885559082
+logoutlocation:
+  world: 19da5674-79e3-4284-a44e-3dc52c61b46f
+  world-name: world_nether
+  x: 710.5160382294013
+  y: 101.0
+  z: -1271.0504758214745
+  yaw: -174.98709106445312
+  pitch: 37.152618408203125

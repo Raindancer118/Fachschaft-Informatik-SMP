@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.0.2.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747425892164
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747426364890
+  login: 1747424993718
+money: '0'
+last-account-name: MarxHD
+logoutlocation:
+  world: f0e7780b-c70a-4040-beb8-c1c9ff2609d5
+  world-name: world
+  x: 111.47433440057141
+  y: 66.0
+  z: 374.69999998807907
+  yaw: -37.748565673828125
+  pitch: 14.881840705871582
+lastlocation:
+  world: f0e7780b-c70a-4040-beb8-c1c9ff2609d5
+  world-name: world
+  x: 7.730698389200764
+  y: 64.0
+  z: -19.427163715918194
+  yaw: 155.201904296875
+  pitch: 5.666489124298096

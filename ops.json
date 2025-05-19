@@ -4,5 +4,17 @@
     "name": "Raindancer119",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2cb31902-2dae-4bf7-a55f-0ee94dfb52d6",
+    "name": "Pytargopias",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7925e79f-4836-4ba8-b1c5-3f02eebf6c92",
+    "name": "Rolk",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

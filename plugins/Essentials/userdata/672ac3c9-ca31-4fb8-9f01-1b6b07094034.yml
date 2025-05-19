@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.0.2.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747441929938
+  login: 1747440779768
+money: '0'
+last-account-name: Xestael
+logoutlocation:
+  world: f0e7780b-c70a-4040-beb8-c1c9ff2609d5
+  world-name: world
+  x: -314.76560552283007
+  y: 93.0
+  z: 166.74860093513942
+  yaw: 108.0341796875
+  pitch: 15.574804306030273

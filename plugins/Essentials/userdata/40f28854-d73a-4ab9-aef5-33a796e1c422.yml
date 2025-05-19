@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.0.2.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747420573747
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747504989677
+  login: 1747504939218
+money: '0'
+last-account-name: Mirco013
+lastlocation:
+  world: 354455dc-ab87-4d03-8a10-07a956fa9dcc
+  world-name: farmwelt
+  x: 163.27667709423076
+  y: 7.0
+  z: -679.2143712723898
+  yaw: 156.4512939453125
+  pitch: 14.099945068359375
+logoutlocation:
+  world: f0e7780b-c70a-4040-beb8-c1c9ff2609d5
+  world-name: world
+  x: -197.54576795611206
+  y: 86.0
+  z: 13.71026506269586
+  yaw: 1.652069091796875
+  pitch: 11.699774742126465

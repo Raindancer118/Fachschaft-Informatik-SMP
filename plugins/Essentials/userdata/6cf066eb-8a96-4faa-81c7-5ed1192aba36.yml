@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.0.2.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747419620650
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747420068147
+  login: 1747418302718
+money: '0'
+last-account-name: PerryTPlaytypus
+lastlocation:
+  world: 354455dc-ab87-4d03-8a10-07a956fa9dcc
+  world-name: farmwelt
+  x: -4.341754985747652
+  y: -54.0
+  z: 446.6373116352014
+  yaw: 90.80239868164062
+  pitch: 41.754573822021484
+logoutlocation:
+  world: 354455dc-ab87-4d03-8a10-07a956fa9dcc
+  world-name: farmwelt
+  x: 253.3378328811868
+  y: 71.0
+  z: -1024.2322145664164
+  yaw: 30.2796630859375
+  pitch: 38.853240966796875

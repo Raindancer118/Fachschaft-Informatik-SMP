@@ -151,8 +151,7 @@ world-settings:
     simulation-distance: default
     verbose: false
 messages:
-  whitelist: Du bist noch nicht auf der Whitelist. Besuche https://mc-whitelist.nak-inf.de
-    um hinzugefügt zu werden.
+  whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
   server-full: The server is full!
   outdated-client: Outdated client! Please use {0}

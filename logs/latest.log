@@ -1,0 +1,77 @@
+[00:03:04] [Server thread/INFO]: Rolk has made the advancement [Hot Stuff]
+[00:16:41] [Server thread/INFO]: Rolk lost connection: Disconnected
+[00:16:41] [Server thread/INFO]: Rolk left the game
+[00:17:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:51:55] [User Authenticator #2/INFO]: UUID of player Nexius7 is ca095041-86c6-4593-b9f7-7759f8f19082
+[00:52:03] [Server thread/INFO]: Nexius7 joined the game
+[00:52:03] [Server thread/INFO]: Nexius7[/10.0.2.100:41504] logged in with entity id 6275 at ([world]1782.6833347951347, 73.0, -1471.7693723714322)
+[01:05:33] [Server thread/INFO]: Nexius7 has made the advancement [Those Were the Days]
+[01:05:58] [Server thread/INFO]: Nexius7 has made the advancement [War Pigs]
+[01:06:06] [Server thread/INFO]: Nexius7 has made the advancement [Who is Cutting Onions?]
+[01:06:20] [Server thread/INFO]: Nexius7 was slain by Piglin Brute
+[01:06:55] [Server thread/INFO]: Nexius7 lost connection: Disconnected
+[01:06:55] [Server thread/INFO]: Nexius7 left the game
+[01:07:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:47:48] [Server thread/INFO]: Stopping server
+[03:47:48] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.36
+[03:47:48] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0
+[03:47:48] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.16
+[03:47:48] [Server thread/INFO]: [BellClaims] Disabling BellClaims v0.3.7
+[03:47:48] [Server thread/INFO]: [BellClaims] Bell Claims has been Disabled
+[03:47:48] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[03:47:48] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[03:47:48] [Server thread/INFO]: [LuckPerms] Closing storage...
+[03:47:48] [Server thread/INFO]: [LuckPerms] Goodbye!
+[03:47:48] [Server thread/INFO]: Saving players
+[03:47:48] [Server thread/INFO]: Saving worlds
+[03:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:47:48] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:47:48] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:47:48] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:47:49] [Thread-8/WARN]: Exception in thread "Thread-8" java.lang.NoClassDefFoundError: org/h2/api/ErrorCode
+[03:47:49] [Thread-8/WARN]: 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:475)
+[03:47:49] [Thread-8/WARN]: 	at org.h2.message.DbException.get(DbException.java:212)
+[03:47:49] [Thread-8/WARN]: 	at org.h2.mvstore.db.Store.close(Store.java:402)
+[03:47:49] [Thread-8/WARN]: 	at org.h2.engine.Database.closeOpenFilesAndUnlock(Database.java:1261)
+[03:47:49] [Thread-8/WARN]: 	at org.h2.engine.Database.closeImpl(Database.java:1225)
+[03:47:49] [Thread-8/WARN]: 	at org.h2.engine.Database.close(Database.java:1144)
+[03:47:49] [Thread-8/WARN]: 	at org.h2.engine.OnExitDatabaseCloser.onShutdown(OnExitDatabaseCloser.java:85)
+[03:47:49] [Thread-8/WARN]: 	at org.h2.engine.OnExitDatabaseCloser.run(OnExitDatabaseCloser.java:114)
+[03:47:49] [Thread-8/WARN]: Caused by: java.lang.ClassNotFoundException: org.h2.api.ErrorCode
+[03:47:49] [Thread-8/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+[03:47:49] [Thread-8/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[03:47:49] [Thread-8/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[03:47:49] [Thread-8/WARN]: 	... 8 more
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 273 entity chunks, 0 poi chunks in world 'world' in 0.08s
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:47:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Saved 9 block chunks, 85 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:47:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 20 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:47:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[farmwelt]'/minecraft:farmwelt
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'farmwelt'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'farmwelt'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'farmwelt'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 28 entity chunks, 0 poi chunks in world 'farmwelt' in 0.02s
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'farmwelt'
+[03:47:49] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'farmwelt'
+[03:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (farmwelt): All chunks are saved
+[03:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:47:49] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[03:47:49] [Server thread/INFO]: All I/O tasks to complete
+[03:47:49] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:47:49] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

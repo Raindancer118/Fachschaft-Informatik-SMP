@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.0.2.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747437318261
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747446670925
+  login: 1747445441368
+money: '0'
+last-account-name: Timolated
+lastlocation:
+  world: f0e7780b-c70a-4040-beb8-c1c9ff2609d5
+  world-name: world
+  x: 444.88853461587183
+  y: 63.085764312744146
+  z: -293.37568275106537
+  yaw: 86.5181884765625
+  pitch: 22.917940139770508
+logoutlocation:
+  world: f0e7780b-c70a-4040-beb8-c1c9ff2609d5
+  world-name: world
+  x: 2076.6615093472265
+  y: 46.0
+  z: -1135.5159909006668
+  yaw: -84.58270263671875
+  pitch: 30.01028823852539

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.0.2.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747435496497
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747506209835
+  login: 1747506202018
+money: '0'
+last-account-name: Fightking04
+lastlocation:
+  world: 354455dc-ab87-4d03-8a10-07a956fa9dcc
+  world-name: farmwelt
+  x: -675.6113047522523
+  y: 63.0
+  z: 68.59945093994794
+  yaw: -170.2491455078125
+  pitch: 19.500015258789062
+logoutlocation:
+  world: f0e7780b-c70a-4040-beb8-c1c9ff2609d5
+  world-name: world
+  x: -24.101836774971286
+  y: 88.0
+  z: 246.57130875323207
+  yaw: -40.34914779663086
+  pitch: 33.5999755859375
